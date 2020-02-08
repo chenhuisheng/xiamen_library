@@ -1,0 +1,13 @@
+books/*
+images/*
+banners/*
+magazines/*
+papers/*
+videos/*
+!.gitignore
+!books/.gitkeep
+!images/.gitkeep
+!banners/.gitkeep
+!magazines/.gitkeep
+!papers/.gitkeep
+!videos/.gitkeep
