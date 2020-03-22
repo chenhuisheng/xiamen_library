@@ -4,6 +4,7 @@ from flask import session, g
 from plugin.exceptions import ApiError
 from app.models import Admin
 
+
 def get_admin():
     admin_id = session.get('admin_id')
     if not admin_id:
